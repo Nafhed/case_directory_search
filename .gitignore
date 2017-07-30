@@ -1,0 +1,9 @@
+js/lib/*
+js/angular-ui-bootstrap*
+js/jquery-slider*
+
+search-api/**
+bgd_case_directory*
+ajax.php
+
+images/*
